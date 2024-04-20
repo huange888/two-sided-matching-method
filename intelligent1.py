@@ -1,6 +1,10 @@
 """written by huange on 2024年4月18日19:36:03"""
 """This is my own website showing about my main information"""
+#以下是个人主页信息
 """https://github.com/huange888/huange888"""
+#如下是仓库地址
+# https://github.com/huange888/two-sided-matching-method
+
 import pandas as pd
 #模拟数据 simulate
 # 设置最大显示行数和列数
