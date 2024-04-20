@@ -17,4 +17,5 @@ http://kns.cnki.net/kcms/detail/31.1738.t.20240409.0956.003.html
 ##个人地址
 https://github.com/huange888/two-sided-matching-method
 
+#迭代次数图片  只保留了实现最优化的迭代次数 实际上是迭代了一万或者几万次
 ![png_1](https://github.com/huange888/two-sided-matching-method/assets/118048444/15f781b6-4853-4dd2-98e4-dedc6ea406e8)
