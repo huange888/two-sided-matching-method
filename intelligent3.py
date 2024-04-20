@@ -1,6 +1,7 @@
 """written by huange on 2024年4月18日19:36:03"""
 """This is my own website"""
 """https://github.com/huange888/huange888"""
+"""以下代码主要是计算司机七个属性的权重系数  利用的是DEMATEL方法"""
 import math
 
 import numpy as np

@@ -1,6 +1,7 @@
 """writen time: 2024年4月18日20:38:43"""
 """This is my own website"""
 """https://github.com/huange888/huange888"""
+"""以下代码主要是根据乘客对司机的七个属性的前景矩阵得出一个综合的前景值矩阵"""
 import numpy as np
 import pandas as pd
 

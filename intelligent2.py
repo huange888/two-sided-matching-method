@@ -1,6 +1,7 @@
 """written by huange on 2024年4月18日19:36:03"""
 """This is my own website"""
 """https://github.com/huange888/huange888"""
+"""以下代码主要是负责推算每个乘客对每个司机的取消概率 可参考论文的3.1具体公式实现"""
 import numpy as np
 import pandas as pd
 

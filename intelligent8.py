@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-
+"""以下代码主要是根据生成的0 1 矩阵 司机乘客匹配矩阵来生成对应的图像信息 进行可视化操作"""
 # 读取 Excel 文件
 mapping_result = pd.read_excel("static/mapping_result.xlsx")
 print(mapping_result)

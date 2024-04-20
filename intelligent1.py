@@ -4,7 +4,7 @@
 """https://github.com/huange888/huange888"""
 #如下是仓库地址
 # https://github.com/huange888/two-sided-matching-method
-
+"""以下代码主要是根据 driver.xlsx来进一步模拟driverSimulate.xlsx 更加符合现实"""
 import pandas as pd
 #模拟数据 simulate
 # 设置最大显示行数和列数

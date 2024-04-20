@@ -1,7 +1,7 @@
 """written by huange on 2024年4月18日19:36:03"""
 """This is my own website"""
 """https://github.com/huange888/huange888"""
-
+"""以下代码主要是根据乘客的期望来计算乘客对司机的七个属性的每一个的前景矩阵"""
 import pandas as pd
 
 # 乘客期待矩阵的地址

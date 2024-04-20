@@ -1,7 +1,9 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-
+"""以下代码主要是根据乘客和司机的匹配情况，生成一个随机的 0-1 矩阵
+然后计算该矩阵的行和列的元素之和，作为匹配情况的评估指标。
+根据目标函数最大化 将双目标问题转化为单目标问题"""
 
 def single_objective_optimization(U, length, cancel_rate, pe, v1, v2):
     m, n = U.shape
