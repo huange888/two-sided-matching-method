@@ -21,16 +21,13 @@ https://github.com/huange888/two-sided-matching-method
 ![png_1](https://github.com/huange888/two-sided-matching-method/assets/118048444/15f781b6-4853-4dd2-98e4-dedc6ea406e8)
 
 #以下图片是最后的匹配结果
+
 ![png_2](https://github.com/huange888/two-sided-matching-method/assets/118048444/e81de200-e191-4dc1-ab3a-79fc5b0ce8b7)
 
 ##个人仓库地址：
 https://github.com/huange888/two-sided-matching-method
 
-##
 ##运行方式
-
-从intelligent1.py 到 intelligent8.py依次运行
-
-其中intelligent7.py的 assignment.xlsx每次都会变化 得到的最优值对应static/mappping_result.xlsx 为最优值674
-
-但是算法用的是暴力随机迭代法 可以用更加高级的算法来迭代 得到最优化模型
+#从intelligent1.py 到 intelligent8.py依次运行
+#其中intelligent7.py的 assignment.xlsx每次都会变化 得到的最优值对应static/mappping_result.xlsx 为最优值674
+#但是算法用的是暴力随机迭代法 可以用更加高级的算法来迭代 得到最优化模型
