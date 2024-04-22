@@ -47,7 +47,9 @@ https://github.com/huange888/two-sided-matching-method
 
 # 运行方式
 先利用如下命令安装依赖环境  
+
 pip install -r requirements.txt
+
 然后从intelligent1.py 到 intelligent8.py依次运行  
 其中intelligent7.py的 assignment.xlsx每次都会变化   
 得到的最优值对应static/mappping_result.xlsx 为最优值674  
