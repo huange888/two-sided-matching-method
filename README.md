@@ -6,6 +6,10 @@ A personalized ride-sharing two-sided matching decision-making method considerin
 [1]包伊宁,陈希,张文博.考虑乘客爽约行为的网约车个性化司乘双边匹配决策方法[J/OL].工业工程与管理,1-15[2024-04-20].
 http://kns.cnki.net/kcms/detail/31.1738.t.20240409.0956.003.html
 对应目录paper/Chinese_paper
+# 代码仓库地址：
+https://github.com/huange888/two-sided-matching-method
+# 参考ppt
+目录下的 presentation/Two-Sided Matching_edit.pptx
 # 背景
 ![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/9b498d27-e3ac-4efd-805d-afbe5148b875)
 ![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/60705af0-6044-415d-a15c-287bde1cd4e0)
@@ -39,10 +43,7 @@ https://github.com/huange888/two-sided-matching-method
 
 ![png_2](https://github.com/huange888/two-sided-matching-method/assets/118048444/e81de200-e191-4dc1-ab3a-79fc5b0ce8b7)
 
-# 个人仓库地址：
-https://github.com/huange888/two-sided-matching-method
-
-## 运行方式
+# 运行方式
  从intelligent1.py 到 intelligent8.py依次运行
  其中intelligent7.py的 assignment.xlsx每次都会变化 得到的最优值对应static/mappping_result.xlsx 为最优值674
  但是算法用的是暴力随机迭代法 可以用更加高级的算法来迭代 得到最优化模型
