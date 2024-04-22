@@ -6,6 +6,13 @@ A personalized ride-sharing two-sided matching decision-making method considerin
 [1]包伊宁,陈希,张文博.考虑乘客爽约行为的网约车个性化司乘双边匹配决策方法[J/OL].工业工程与管理,1-15[2024-04-20].
 http://kns.cnki.net/kcms/detail/31.1738.t.20240409.0956.003.html
 对应目录paper/Chinese_paper
+# 背景
+![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/9b498d27-e3ac-4efd-805d-afbe5148b875)
+![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/60705af0-6044-415d-a15c-287bde1cd4e0)
+# DAA算法参考
+![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/efacf032-d7af-436c-9f72-6f5074db8f3f)
+
+
 # 感受
  历时八天  有两天都在看英文文献 
 对应目录 paper/English_paper
