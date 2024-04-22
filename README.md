@@ -1,5 +1,6 @@
 # two-sided-matching-method
 A personalized ride-sharing two-sided matching decision-making method considering passenger no-show behavior
+考虑乘客爽约行为的个性化拼车双边匹配决策方法
 
 ## 参考论文地址：
 [1]包伊宁,陈希,张文博.考虑乘客爽约行为的网约车个性化司乘双边匹配决策方法[J/OL].工业工程与管理,1-15[2024-04-20].
