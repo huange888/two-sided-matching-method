@@ -10,6 +10,8 @@ http://kns.cnki.net/kcms/detail/31.1738.t.20240409.0956.003.html
 https://github.com/huange888/two-sided-matching-method
 # 参考ppt
 目录下的 presentation/Two-Sided Matching_edit.pptx
+# 数据目录
+在目录下的static 里面存放了passenger driverSimulate1 profit_matrix loss_matrix prospectValueMatrix 等 xlsx文件
 # 背景
 ![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/9b498d27-e3ac-4efd-805d-afbe5148b875)
 ![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/60705af0-6044-415d-a15c-287bde1cd4e0)
