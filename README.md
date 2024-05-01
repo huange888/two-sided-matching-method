@@ -27,7 +27,8 @@ https://github.com/huange888/two-sided-matching-method
  历时八天  有两天都在看英文文献 
 对应目录 paper/English_paper
 后面的五天或者六天都是解析文献模型 提取公式来写python代码
-![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/ab40922a-e258-444b-9b62-ad07372ced33)
+![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/2b98a17b-b613-464e-8e07-30fd9a12a47d)
+
 
  在2024年4月20日17:07:45 终于完成了这个智慧决策的大作业
  第一次感受到了博士论文的复杂度
