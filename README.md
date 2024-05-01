@@ -13,16 +13,20 @@ https://github.com/huange888/two-sided-matching-method
 # 数据目录
 在目录下的static 里面存放了passenger driverSimulate1 profit_matrix loss_matrix prospectValueMatrix 等 xlsx文件
 # 背景
-![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/9b498d27-e3ac-4efd-805d-afbe5148b875)
-![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/60705af0-6044-415d-a15c-287bde1cd4e0)
+
+![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/4fb5e905-89d2-4492-ab04-26d87e54b947)
+
+![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/2a7402af-fb5f-4202-b815-b2b92dad56bd)
+
 # DAA算法参考
-![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/efacf032-d7af-436c-9f72-6f5074db8f3f)
+![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/742482c6-566f-4d22-ae6f-b07e26f6d3e0)
+
 
 
 # 感受
  历时八天  有两天都在看英文文献 
 对应目录 paper/English_paper
-后面的五天或者六天都是看着中文文献 来看公式来写python代码
+后面的五天或者六天都是解析文献模型 提取公式来写python代码
 ![image](https://github.com/huange888/two-sided-matching-method/assets/118048444/ab40922a-e258-444b-9b62-ad07372ced33)
 
  在2024年4月20日17:07:45 终于完成了这个智慧决策的大作业
